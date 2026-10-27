@@ -1,50 +1,31 @@
 {
-  "AdminUrl": "https://wa.me/6285141451415",
-  "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
-  "Users": [
-    {
-      "ID": "D599D5F202CECFC2",
-      "Expiry": "31/12/2026"
+  "settings": {
+    "app_version": 1,
+    "update_url": "https://your-download-link.com/app.apk",
+    "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
+    "telegram_url": "https://t.me/msmodspro"
+  },
+  "security_toggles": {
+    "anti_debug": false, 
+    "anti_root": false,
+    "anti_emulator": false,
+    "anti_vpn": false,
+    "anti_hooking": false,
+    "signature_check": false,
+    "original_signature": "YAHAN_APNA_SHA256_DAALEIN"
+  },
+  "devices": {
+    "DEV-ABCDE12345": {
+      "login_key": "VIP2026",
+      "active": true
     },
-    {
-      "ID": "38F35F097060EF5F",
-      "Expiry": "30/12/2026"
+    "DEV-98765XYZ": {
+      "login_key": "NEWUSER123",
+      "active": true
     },
-    {
-      "ID": "23754A7E8EB02B82",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "98E16E4F2981EDA1",
-      "Expiry": "20/10/2026"
-    },
-    {
-      "ID": "AAF48C0468899394",
-      "Expiry": "20/10/2026"
-    },
-    {
-      "ID": "77C2100DA628BCC9",
-      "Expiry": "20/10/2026"
-    },
-    {
-      "ID": "D48B849153F1CB35",
-      "Expiry": "20/10/2026"
-    },
-    {
-      "ID": "E29535A3D29D3EA7",
-      "Expiry": "15/04/2026"
-    },
-    {
-      "ID": "50DE567126601DCA",
-      "Expiry": "15/04/2026"
-    },
-    {
-      "ID": "06987DCA7FC8D74B",
-      "Expiry": "15/04/2026"
-    },
-    {
-      "ID": "5D472C6A94F22044",
-      "Expiry": "15/04/2026"
+    "DEV-QWERTY999": {
+      "login_key": "PROGAMER",
+      "active": true
     }
-  ]
+  }
 }
