@@ -1,31 +1,14 @@
 {
-  "settings": {
-    "app_version": 1,
-    "update_url": "https://your-download-link.com/app.apk",
-    "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
-    "telegram_url": "https://t.me/msmodspro"
-  },
-  "security_toggles": {
-    "anti_debug": false, 
-    "anti_root": false,
-    "anti_emulator": false,
-    "anti_vpn": false,
-    "anti_hooking": false,
-    "signature_check": false,
-    "original_signature": "YAHAN_APNA_SHA256_DAALEIN"
-  },
-  "devices": {
-    "DEV-D599D5F202": {
-      "login_key": "SMX",
-      "active": true
+  "AdminUrl": "https://wa.me/6285141451415",
+  "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
+  "Users": [
+    {
+      "ID": "D599D5F202CECFC2",
+      "Expiry": "30/12/2026"
     },
-    "DEV-98765XYZ": {
-      "login_key": "NEWUSER123",
-      "active": true
-    },
-    "DEV-QWERTY999": {
-      "login_key": "PROGAMER",
-      "active": true
+    {
+      "ID": "5D472C6A94F22044",
+      "Expiry": "15/04/2026"
     }
-  }
+  ]
 }
